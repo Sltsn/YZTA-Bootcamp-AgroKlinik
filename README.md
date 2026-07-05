@@ -39,6 +39,12 @@
 
 ## Web Adresi
 Adres: [http://localhost:3000](http://localhost:3000)
+<img width="1600" height="690" alt="WhatsApp Image 2026-07-05 at 20 27 52" src="https://github.com/user-attachments/assets/1f2156e5-d39c-4076-8d6d-b74052834a4f" />
+<img width="1600" height="570" alt="WhatsApp Image 2026-07-05 at 20 27 30" src="https://github.com/user-attachments/assets/d975ff19-c15a-416d-b573-e81daf481dcb" />
+<img width="1600" height="583" alt="WhatsApp Image 2026-07-05 at 20 26 59" src="https://github.com/user-attachments/assets/6bbcce14-d485-4054-9917-162ccd307b7f" />
+<img width="1600" height="580" alt="WhatsApp Image 2026-07-05 at 20 26 59 (1)" src="https://github.com/user-attachments/assets/cf90edc1-92d3-43b4-b5e5-c3208dbdc385" />
+<img width="1600" height="682" alt="WhatsApp Image 2026-07-05 at 20 26 58" src="https://github.com/user-attachments/assets/ef7da73c-53e3-454b-90b2-59a9a826872e" />
+
 
 
 # Sprint 1
