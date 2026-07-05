@@ -43,7 +43,7 @@ Adres: [http://localhost:3000](http://localhost:3000)
 (Eğer varsa Trello/Miro ekran görüntüsü linklerini buraya ekleyebilirsiniz)
 
 - **Ürün Durumu**: AgroKlinik projesinin ilk çalışan Next.js arayüzü başarıyla ayağa kaldırılmış, GitHub reposuna yüklenmiş ve tasarımsal ilk aşama tamamlanmıştır.
-Veri Setleri belirlendi.
+Veri Setleri belirlenmiştir.
 
 - **Sprint Review**: 
 Alınan kararlar: Projenin Next.js ve Tailwind v4 altyapısı başarıyla kuruldu. globals.css üzerindeki entegrasyon sorunları giderildi. İlk arayüz tasarımları test edildi ve bir sonraki sprint'te yapay zeka servislerinin bağlanması kararlaştırıldı.
